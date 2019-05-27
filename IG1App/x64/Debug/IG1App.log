@@ -1,0 +1,23 @@
+﻿  main.cpp
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutInitWindowSize non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutInitDisplayMode non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutMainLoop non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutDestroyWindow non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutPostRedisplay non risolto nella funzione "void __cdecl key(unsigned char,int,int)" (?key@@YAXEHH@Z)
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutSwapBuffers non risolto nella funzione "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutIdleFunc non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutKeyboardFunc non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutSpecialFunc non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutReshapeFunc non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutDisplayFunc non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutGet non risolto nella funzione "void __cdecl update(void)" (?update@@YAXXZ)
+Texture.obj : error LNK2001: simbolo esterno __imp_glutGet non risolto
+main.obj : error LNK2019: riferimento al simbolo esterno __imp___glutInitWithExit non risolto nella funzione glutInit_ATEXIT_HACK
+main.obj : error LNK2019: riferimento al simbolo esterno __imp___glutCreateWindowWithExit non risolto nella funzione glutCreateWindow_ATEXIT_HACK
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutLeaveMainLoop non risolto nella funzione "void __cdecl key(unsigned char,int,int)" (?key@@YAXEHH@Z)
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutSetOption non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutInitContextVersion non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutInitContextFlags non risolto nella funzione main
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glutInitContextProfile non risolto nella funzione main
+C:\Users\andre\Documents\ULTIMOAGGIORNAMENTOProyectosIG_VS17_GL_FG_GLM\ULTIMOAGGIORNAMENTOProyectosIG_VS17_GL_FG_GLM\freeglut\lib\x86\freeglut.lib : warning LNK4272: il tipo 'x86' del computer della libreria è in conflitto con il tipo 'x64' del computer di destinazione
+C:\Users\andre\Documents\ULTIMOAGGIORNAMENTOProyectosIG_VS17_GL_FG_GLM\ULTIMOAGGIORNAMENTOProyectosIG_VS17_GL_FG_GLM\bin\IG1AppDebug.exe : fatal error LNK1120: 19 esterni non risolti

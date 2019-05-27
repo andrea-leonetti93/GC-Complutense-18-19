@@ -1,0 +1,13 @@
+﻿  Entity.cpp
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(211): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(613): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(796): warning C4244: '=': conversione da 'GLdouble' a 'int'. Possibile perdita di dati.
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(797): warning C4244: '=': conversione da 'GLdouble' a 'int'. Possibile perdita di dati.
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(885): warning C4244: '=': conversione da 'GLdouble' a 'int'. Possibile perdita di dati.
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(886): warning C4244: '=': conversione da 'GLdouble' a 'int'. Possibile perdita di dati.
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(1156): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(1411): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(1472): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(1627): warning C4244: '=': conversione da 'GLdouble' a 'int'. Possibile perdita di dati.
+c:\users\andre\desktop\gc completo\proyectosig_vs17_gl_fg_glm\ig1app\entity.cpp(1628): warning C4244: '=': conversione da 'GLdouble' a 'int'. Possibile perdita di dati.
+  IG1App.vcxproj -> C:\Users\andre\Desktop\GC COMPLETO\ProyectosIG_VS17_GL_FG_GLM\bin\IG1AppDebug.exe
